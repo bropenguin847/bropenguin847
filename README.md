@@ -1,5 +1,8 @@
-## Hi there 👋
+## 💀Hello there!!
+**Call me Penguin**
 
+I'm an Electronics Enthusiast and I love all things Electronics. <br>
+My main programming language is Python 
 <!--
 **bropenguin847/bropenguin847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
