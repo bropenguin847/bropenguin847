@@ -1,6 +1,7 @@
-## 💀Hello there!!
-**Call me Penguin**
-or *Keith* is fine too <br>
+## 💀 Hello there!! ![image](https://github.com/user-attachments/assets/015c9d0b-33be-4928-b8eb-468185862763)
+
+**Call me Penguin** 🐧⭐️
+ or *Keith* is fine too <br>
 I'm an Electronics Enthusiast and I love all things Electronics.
 My main programming language is Python and a little bit of C++. 
 
