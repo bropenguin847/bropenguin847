@@ -12,8 +12,11 @@ These are for my own personal reference, and maybe for my friends to check out o
 
 In the future,  I would like to decorate my profile with my own personal website.
 Future projects:
-- Personal Website / Web Resume
 - Real Time Vibration Analysis
+- Making a game with python
+- Automating with Python
+- Personal Website / Web Resume with Python
+- (Need to learn about HTTP methods and APIs, Request module, build simple website with Flask, django & fastAPI)
 - Self host a website (try)
 - PCB name card
 
