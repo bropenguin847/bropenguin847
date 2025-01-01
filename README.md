@@ -2,8 +2,9 @@
 
 **Call me Penguin** 🐧⭐️
  or *Keith* is fine too <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=800&color=1362F7&width=450&lines=My+name+is+%F0%9F%90%A7+Keith+%E2%AD%90%EF%B8%8F;This+is+my+profile;My+main+language+is+Python;+and+a+little+bit+of+C%2B%2B.+)](https://git.io/typing-svg)
+ 
 I'm an Electronics Enthusiast and I love all things Electronics.
-My main programming language is Python and a little bit of C++. 
 
 
 My repo consists of the projects I've built from the past. Such as C++ calculator and an ESP32 controller bluetooth car.
