@@ -21,7 +21,7 @@ Future projects:
 - Self host a website (try)
 - PCB name card
 
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/bropenguin847/bropenguin847/output/github-contribution-grid-snake-dark.svg)
 
 # 📫 How to reach me:
 In the future, when I'm confortable enough, I'll share my LinkedIn profile here
