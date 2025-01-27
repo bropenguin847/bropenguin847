@@ -21,7 +21,11 @@ Future projects:
 - Self host a website (try)
 - PCB name card
 
-![Snake animation](https://raw.githubusercontent.com/bropenguin847/bropenguin847/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bropenguin847/bropenguin847/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bropenguin847/bropenguin847/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bropenguin847/bropenguin847/output/github-contribution-grid-snake.svg">
+</picture>
 
 # 📫 How to reach me:
 In the future, when I'm confortable enough, I'll share my LinkedIn profile here
