@@ -1,10 +1,10 @@
 ## 💀 Hello there!!
 
-**Call me Penguin** 🐧⭐️
+**Call me Penguin** 🐧
  or *Keith* is fine too <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=800&color=1362F7&width=450&lines=My+name+is+%F0%9F%90%A7+Keith+%E2%AD%90%EF%B8%8F;This+is+my+profile;My+main+language+is+Python;+and+a+little+bit+of+C%2B%2B.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=500&duration=3000&pause=1000&color=0F40F7&background=00CFFF26&center=true&width=450&height=45&lines=My+name+is+Keith+Lim+%F0%9F%90%A7;My+main+language+is+Python+%F0%9F%90%8D;I+also+dabble+in+a+little+C%2B%2B)](https://git.io/typing-svg)
  
-I'm an Electronics Enthusiast and I love all things Electronics.
+I'm an Electronics Enthusiast and I love all things Electronics.⭐️⚡️💥🛠️
 
 
 My repo consists of the projects I've built from the past. Such as C++ calculator and an ESP32 controller bluetooth car.
@@ -14,6 +14,8 @@ These are for my own personal reference, and maybe for my friends to check out o
 In the future,  I would like to decorate my profile with my own personal website.
 Future projects:
 - Real Time Vibration Analysis
+- Python chat bot
+- Hacking hardware
 - Making a game with python
 - Automating with Python
 - Personal Website / Web Resume with Python
