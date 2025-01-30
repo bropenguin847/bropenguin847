@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   # run at 12 AM and 12 PM MYT (UTC+8)
-schedule:
+  schedule:
   - cron: "0 4,16 * * *"
     
   # allows to manually run the job at any time
