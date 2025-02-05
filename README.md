@@ -13,15 +13,14 @@ These are for my own personal reference, and maybe for my friends to check out o
 
 In the future,  I would like to decorate my profile with my own personal website.
 Future projects:
-- Real Time Vibration Analysis
-- Python chat bot
-- Hacking hardware
-- Making a game with python
-- Automating with Python
-- Personal Website / Web Resume with Python
-- (Need to learn about HTTP methods and APIs, Request module, build simple website with Flask, django & fastAPI)
-- Self host a website (try)
 - PCB name card
+- Hexapod
+- Hacking hardware
+- Making a game with Python
+- Python chat bot
+- Automating with Python
+- Personal Website / Web Resume with Python (Self Host)
+  (HTTP methods and APIs, Request module, build simple website with Flask, django & fastAPI)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bropenguin847/bropenguin847/output/github-contribution-grid-snake-dark.svg">
@@ -30,7 +29,7 @@ Future projects:
 </picture>
 
 # 📫 How to reach me:
-In the future, when I'm confortable enough, I'll share my LinkedIn profile here
+[LinkedIn](linkedin.com/in/lim-yeow-sheng-18b275226)
 
 <!--
 **bropenguin847/bropenguin847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
