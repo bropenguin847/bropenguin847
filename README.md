@@ -29,7 +29,7 @@ Future projects:
 </picture>
 
 # 📫 How to reach me:
-[LinkedIn](linkedin.com/in/lim-yeow-sheng-18b275226)
+[LinkedIn](www.linkedin.com/in/lim-yeow-sheng)
 
 <!--
 **bropenguin847/bropenguin847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
