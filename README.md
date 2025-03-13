@@ -20,6 +20,7 @@ Initially, these are for my own personal reference. Now, I maintain it for my fr
 <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gimp/gimp-original.svg" />
 
 <br/>
+<br/>
 
 ## 💡 Future Ideas
 In the future,  I would like to decorate my profile with my own personal website. Built from the ground up.
