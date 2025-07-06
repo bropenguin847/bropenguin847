@@ -1,4 +1,4 @@
-# 🐧 Keith Lim
+# Hello there !! I am Keith Lim 👋🐧
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=550&duration=3000&pause=1000&vCenter=true&color=0F40F7&background=00CFFF26&center=true&width=1000&height=40&lines=My+name+is+Keith+Lim+%F0%9F%90%A7;My+main+language+is+Python+%F0%9F%90%8D;I+also+dabble+in+a+little+C%2B%2B)](https://git.io/typing-svg)
  
@@ -13,11 +13,12 @@ Initially, these are for my own personal reference. Now, I maintain it for my fr
 
 ## 🛠️ Tools
 <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
-<img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" />
-<img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
-<img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gimp/gimp-original.svg" />
+<img align="left" alt="Arduino" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" />
+<img align="left" alt="C++" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" />
+<img align="left" alt="Github" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
+<img align="left" alt="Matlab" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />
+<img align="left" alt="Gimp" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gimp/gimp-original.svg" />
 
 <br/>
 <br/>
@@ -44,11 +45,12 @@ Here are a few of my upcoming projects:
 ## 🔭 Current Projects:
 Python ATM system
 
-## 📫 How to reach me:
+## 📫 Let's Connect!
 <a href="https://www.linkedin.com/in/lim-yeow-sheng/">
   <img src="images/linkedin.png" width="32" height="32" alt="LinkedIn">
 </a>
-
+Feel free to check out my projects, drop suggestions, or say hi! <br>
+I'm always excited to grow and learn more. 🌱
 
 <!--
 **bropenguin847/bropenguin847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
