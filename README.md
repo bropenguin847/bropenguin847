@@ -27,7 +27,7 @@ Initially, these are for my own personal reference. Now, I maintain it for my fr
 In the future,  I would like to decorate my profile with my own personal website. Built from the ground up.
 
 Here are a few of my upcoming projects:
-- PCB name card
+- [PCB Business Card](https://github.com/bropenguin847/PCB_Business_Card)
 - Hexapod
 - Hacking hardware
 - Making a game with Python
