@@ -27,14 +27,14 @@ Initially, these are for my own personal reference. Now, I maintain it for my fr
 In the future,  I would like to decorate my profile with my own personal website. Built from the ground up.
 
 Here are a few of my upcoming projects:
-- [PCB Business Card](https://github.com/bropenguin847/PCB_Business_Card)
+- PCB Business Card
+- Personal Website / Web Resume with Python (Self Host)
+  (HTTP methods and APIs, Request module, simple website with Flask, django & fastAPI)
 - Hexapod
 - Hacking hardware
 - Making a game with Python
 - Python chat bot
 - Automating with Python
-- Personal Website / Web Resume with Python (Self Host)
-  (HTTP methods and APIs, Request module, build simple website with Flask, django & fastAPI)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bropenguin847/bropenguin847/output/github-contribution-grid-snake-dark.svg">
@@ -43,7 +43,7 @@ Here are a few of my upcoming projects:
 </picture>
 
 ## 🔭 Current Projects:
-Python ATM system
+[PCB Business Card](https://github.com/bropenguin847/PCB_Business_Card)
 
 ## 📫 Let's Connect!
 <a href="https://www.linkedin.com/in/lim-yeow-sheng/">
@@ -57,7 +57,6 @@ I'm always excited to grow and learn more. 🌱
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
