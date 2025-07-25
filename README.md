@@ -28,6 +28,7 @@ In the future,  I would like to decorate my profile with my own personal website
 
 Here are a few of my upcoming projects:
 - PCB Business Card
+- Portable Power supply with casing
 - Personal Website / Web Resume with Python (Self Host)
   (HTTP methods and APIs, Request module, simple website with Flask, django & fastAPI)
 - Hexapod
@@ -35,6 +36,7 @@ Here are a few of my upcoming projects:
 - Making a game with Python
 - Python chat bot
 - Automating with Python
+- something to do with Johor Bus
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bropenguin847/bropenguin847/output/github-contribution-grid-snake-dark.svg">
