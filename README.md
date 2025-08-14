@@ -29,7 +29,6 @@ Initially, these are for my own personal reference. Now, I maintain it for my fr
 In the future,  I would like to decorate my profile with my own personal website.
 
 Here are a few of my upcoming projects:
-- PCB Business Card
 - Open Source IC Design projects
 - Portable Power supply with casing
 - Personal Website / Web Resume with Python (Self Host)
