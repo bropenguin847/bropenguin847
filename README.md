@@ -57,6 +57,10 @@ Here are a few of my upcoming projects:
 Feel free to check out my projects, drop suggestions, or say hi! <br>
 I'm always excited to grow and learn more. 🌱
 
+### Daily XKCD
+<!-- XKCD START -->
+<!-- XKCD END -->
+
 <!--
 **bropenguin847/bropenguin847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
