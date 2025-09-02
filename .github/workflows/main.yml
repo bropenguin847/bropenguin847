@@ -43,34 +43,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-   ##############       
-  update_xkcd:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Checkout
-      - uses: actions/checkout@v3
-      
-      - name: Generate number for xkcd and update readme
-      - run: |
-        # Generates a random number between 10 and 3000
-        COMIC_NUM=$(shuf -i 10-3000 -n 1)
-        
-        # Get comic data
-        COMIC_DATA = $(curl -s "https://xkcd.com/$COMIC_NUM/info.0.json"
-        TITLE = $(echo "$COMIC_DATA" | jq -r '.title')
-        IMG_URL = $(echo "$COMIC_DATA" | jq -r '.img')
-        ALT_TEXT = $(echo "$COMIC_DATA" | jq -r '.alt')
-        
-        sed -i '/<!-- XKCD-START -->/,/<!-- XKCD-END -->/c\
-          <!-- XKCD-START -->\
-          <center>Daily Random XKCD Comic (#'$COMIC_NUM')</center>\
-          \
-          ### '$TITLE'\
-          \
-          ![XKCD Comic]('$IMG_URL')\
-          \
-          *'$ALT_TEXT'*\
-          \
-          Last updated: '$(date)'\
-          <!-- XKCD-END -->' README.md
+          
