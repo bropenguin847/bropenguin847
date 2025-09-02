@@ -34,7 +34,6 @@ jobs:
           echo "COMIC_NUM=$COMIC_NUM" >> $GITHUB_ENV
           echo "TITLE=$TITLE" >> $GITHUB_ENV
           echo "IMG_URL=$IMG_URL" >> $GITHUB_ENV
-          echo "ALT_TEXT=$ALT_TEXT" >> $GITHUB_ENV
           
       - name: Update on Readme.md
         run: |
@@ -45,8 +44,6 @@ jobs:
           ### '${TITLE}'\
           \
           ![XKCD Comic]('${COMIC_NUM}')\
-          \
-          *'${ALT_TEXT}'*\
           \
           Last updated: '$(date)'\
           <!-- XKCD-END -->' README.md
