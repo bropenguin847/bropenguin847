@@ -11,11 +11,14 @@ on:
   push:
     branches:
     - main
-    
+
+permissions:
+  contents: write
+
 jobs:
   update_xkcd:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 3
     steps:
       - uses: actions/checkout@v3
       
