@@ -37,14 +37,7 @@ jobs:
           
       - name: Update on Readme.md
         run: |
-          sed -i '/<!-- XKCD-START -->/,/<!-- XKCD-END -->/c\
-          <!-- XKCD-START -->\
-          <center>Daily Random XKCD Comic (#'${COMIC_NUM}')</center>\
-          \
-          ### '${TITLE}'\
-          \
-          ![XKCD Comic]('${COMIC_NUM}')\
-          \
-          Last updated: '$(date)'\
-          <!-- XKCD-END -->' README.md
+          BLOCK="[![${TITLE}](${IMG_URL})](https://xkcd.com/${COMIC_NUM}/)\n*${ALT_TEXT}*"
+          perl -0777 -pe 's/<!-- XKCD START -->.*?<!-- XKCD END -->/<!-- XKCD START -->\n'"$BLOCK"'\n<!-- XKCD END -->/s' README.md > README.md.new
+          mv README.md.new README.md
           
