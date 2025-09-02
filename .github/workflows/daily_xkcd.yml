@@ -45,11 +45,4 @@ jobs:
             $0==end {f=0}
             !f
           ' README.md > temp.md && mv temp.md README.md
-
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git add README.md
-          git commit -m "Update README section" || echo "Daily XKCD Comic Update"
-          git push
           
