@@ -36,18 +36,17 @@ jobs:
           echo "IMG_URL=$IMG_URL" >> $GITHUB_ENV
           echo "ALT_TEXT=$ALT_TEXT" >> $GITHUB_ENV
           
-      - name: Update on Readme
+      - name: Update on Readme.md
         run: |
-          # Updates on Readme
           sed -i '/<!-- XKCD-START -->/,/<!-- XKCD-END -->/c\
           <!-- XKCD-START -->\
-          <center>Daily Random XKCD Comic (#'$COMIC_NUM')</center>\
+          <center>Daily Random XKCD Comic (#'${COMIC_NUM}')</center>\
           \
-          ### '$TITLE'\
+          ### '${TITLE}'\
           \
-          ![XKCD Comic]('$IMG_URL')\
+          ![XKCD Comic]('${COMIC_NUM}')\
           \
-          *'$ALT_TEXT'*\
+          *'${ALT_TEXT}'*\
           \
           Last updated: '$(date)'\
           <!-- XKCD-END -->' README.md
