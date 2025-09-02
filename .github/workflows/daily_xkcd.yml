@@ -36,13 +36,20 @@ jobs:
           
       - name: Update on Readme.md
         run: |
-          BLOCK="[![${TITLE}](${IMG_URL})](https://xkcd.com/${COMIC_NUM}/)\n"
-          echo "$BLOCK" > block.txt
-          perl -0777 -pe '{
-            local $/;
-            open my $fh, "<", "block.txt";
-            my $block = do { local $/; <$fh> };
-            s/<!-- XKCD START -->.*?<!-- XKCD END -->/<!-- XKCD START -->\n$block\n<!-- XKCD END -->/s
-          }' README.md > README.md.new
-          mv README.md.new README.md
+          section_start="<!-- XKCD_START -->"
+          section_end="<!-- XKCD_END -->"
+          new_content="![XKCD Comic]('${IMG_URL}')"
+
+          awk -v start="$section_start" -v end="$section_end" -v content="$new_content" '
+            $0==start {print; print content; f=1; next}
+            $0==end {f=0}
+            !f
+          ' README.md > temp.md && mv temp.md README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Update README section" || echo "Daily XKCD Comic Update"
+          git push
           
