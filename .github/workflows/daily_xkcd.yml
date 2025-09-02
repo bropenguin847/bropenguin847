@@ -37,11 +37,11 @@ jobs:
           echo "TITLE=$TITLE" >> $GITHUB_ENV
           echo "IMG_URL=$IMG_URL" >> $GITHUB_ENV
           
-      - name: Update on Readme.md
+      - name: Update on README.md
         run: |
           section_start="<!-- XKCD_START -->"
           section_end="<!-- XKCD_END -->"
-          new_content="![XKCD Comic]('${IMG_URL}')"
+          new_content="![XKCD #${NUM} - ${TITLE}](${IMG_URL})"
 
           awk -v start="$section_start" -v end="$section_end" -v content="$new_content" '
             $0==start {print; print content; f=1; next}
@@ -49,3 +49,10 @@ jobs:
             !f
           ' README.md > temp.md && mv temp.md README.md
           
+      - name: Commit and push changes silently
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update XKCD section [skip ci]" || echo "No changes"
+          git push
