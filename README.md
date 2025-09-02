@@ -59,6 +59,7 @@ I'm always excited to grow and learn more. 🌱
 
 
 <!-- XKCD_START -->
+![XKCD # - The End of the Rainbow](https://imgs.xkcd.com/comics/the_end_of_the_rainbow.png)
 <!-- XKCD_END -->
 
 <!--
