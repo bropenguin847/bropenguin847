@@ -29,7 +29,6 @@ jobs:
           COMIC_DATA=$(curl -s "https://xkcd.com/$COMIC_NUM/info.0.json")
           TITLE=$(echo "$COMIC_DATA" | jq -r '.title')
           IMG_URL=$(echo "$COMIC_DATA" | jq -r '.img')
-          ALT_TEXT=$(echo "$COMIC_DATA" | jq -r '.alt')
 
           echo "COMIC_NUM=$COMIC_NUM" >> $GITHUB_ENV
           echo "TITLE=$TITLE" >> $GITHUB_ENV
