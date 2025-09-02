@@ -36,7 +36,13 @@ jobs:
           
       - name: Update on Readme.md
         run: |
-          BLOCK="[![${TITLE}](${IMG_URL})](https://xkcd.com/${COMIC_NUM}/)\n*${ALT_TEXT}*"
-          perl -0777 -pe 's/<!-- XKCD START -->.*?<!-- XKCD END -->/<!-- XKCD START -->\n'"$BLOCK"'\n<!-- XKCD END -->/s' README.md > README.md.new
+          BLOCK="[![${TITLE}](${IMG_URL})](https://xkcd.com/${COMIC_NUM}/)\n"
+          echo "$BLOCK" > block.txt
+          perl -0777 -pe '{
+            local $/;
+            open my $fh, "<", "block.txt";
+            my $block = do { local $/; <$fh> };
+            s/<!-- XKCD START -->.*?<!-- XKCD END -->/<!-- XKCD START -->\n$block\n<!-- XKCD END -->/s
+          }' README.md > README.md.new
           mv README.md.new README.md
           
