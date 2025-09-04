@@ -59,7 +59,7 @@ I'm always excited to grow and learn more. 🌱
 
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Family Reunion](https://imgs.xkcd.com/comics/family_reunion.png)
+![XKCD # - Identity](https://imgs.xkcd.com/comics/identity.png)
 <!-- XKCD_END -->
 
 <!--
