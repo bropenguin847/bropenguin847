@@ -59,7 +59,7 @@ I'm always excited to grow and learn more. 🌱
 
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Identity](https://imgs.xkcd.com/comics/identity.png)
+![XKCD # - Black Hole](https://imgs.xkcd.com/comics/black_hole.png)
 <!-- XKCD_END -->
 
 <!--
