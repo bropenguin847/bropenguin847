@@ -59,7 +59,7 @@ I'm always excited to grow and learn more. 🌱
 
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Cemetery](https://imgs.xkcd.com/comics/cemetery.png)
+![XKCD # - Geologist](https://imgs.xkcd.com/comics/geologist.png)
 <!-- XKCD_END -->
 
 <!--
