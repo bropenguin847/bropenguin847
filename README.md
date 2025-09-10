@@ -59,7 +59,7 @@ I'm always excited to grow and learn more. 🌱
 
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - New Car](https://imgs.xkcd.com/comics/new_car.png)
+![XKCD # - Bracket](https://imgs.xkcd.com/comics/bracket.png)
 <!-- XKCD_END -->
 
 <!--
