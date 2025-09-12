@@ -59,7 +59,7 @@ I'm always excited to grow and learn more. 🌱
 
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Repairs](https://imgs.xkcd.com/comics/repairs.png)
+![XKCD # - Consensus Time](https://imgs.xkcd.com/comics/consensus_time.png)
 <!-- XKCD_END -->
 
 <!--
