@@ -59,7 +59,7 @@ I'm always excited to grow and learn more. 🌱
 
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Existential Bug Reports](https://imgs.xkcd.com/comics/existential_bug_reports.png)
+![XKCD # - Techno](https://imgs.xkcd.com/comics/techno.png)
 <!-- XKCD_END -->
 
 <!--
