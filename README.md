@@ -59,7 +59,7 @@ I'm always excited to grow and learn more. 🌱
 
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Techno](https://imgs.xkcd.com/comics/techno.png)
+![XKCD # - Choices: Part 2](https://imgs.xkcd.com/comics/choices_part_2.jpg)
 <!-- XKCD_END -->
 
 <!--
