@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Drone Problems](https://imgs.xkcd.com/comics/drone_problems.png)
+![XKCD # - Vaccinated](https://imgs.xkcd.com/comics/vaccinated.png)
 <!-- XKCD_END -->
 
 <!--
