@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Vaccinated](https://imgs.xkcd.com/comics/vaccinated.png)
+![XKCD # - Gravitational Wave Pulsars](https://imgs.xkcd.com/comics/gravitational_wave_pulsars.png)
 <!-- XKCD_END -->
 
 <!--
