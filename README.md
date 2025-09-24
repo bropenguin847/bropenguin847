@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Moon Armor Index](https://imgs.xkcd.com/comics/moon_armor_index.png)
+![XKCD # - Hurricane Hunters](https://imgs.xkcd.com/comics/hurricane_hunters.png)
 <!-- XKCD_END -->
 
 <!--
