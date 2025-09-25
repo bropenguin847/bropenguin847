@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Hurricane Hunters](https://imgs.xkcd.com/comics/hurricane_hunters.png)
+![XKCD # - Battery Life](https://imgs.xkcd.com/comics/battery_life.png)
 <!-- XKCD_END -->
 
 <!--
