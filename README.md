@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Sunspot Cycle](https://imgs.xkcd.com/comics/sunspot_cycle.png)
+![XKCD # - Universal Install Script](https://imgs.xkcd.com/comics/universal_install_script.png)
 <!-- XKCD_END -->
 
 <!--
