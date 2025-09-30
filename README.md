@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Universal Install Script](https://imgs.xkcd.com/comics/universal_install_script.png)
+![XKCD # - Diffraction Spikes](https://imgs.xkcd.com/comics/diffraction_spikes.png)
 <!-- XKCD_END -->
 
 <!--
