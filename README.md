@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Abstraction](https://imgs.xkcd.com/comics/abstraction.png)
+![XKCD # - Cumulonimbus](https://imgs.xkcd.com/comics/cumulonimbus.png)
 <!-- XKCD_END -->
 
 <!--
