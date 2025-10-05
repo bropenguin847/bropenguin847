@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - 26-Second Pulse](https://imgs.xkcd.com/comics/26_second_pulse.png)
+![XKCD # - Shake That](https://imgs.xkcd.com/comics/shake_that.png)
 <!-- XKCD_END -->
 
 <!--
