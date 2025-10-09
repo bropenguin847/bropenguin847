@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Adult](https://imgs.xkcd.com/comics/adult.png)
+![XKCD # - Solar Protons](https://imgs.xkcd.com/comics/solar_protons.png)
 <!-- XKCD_END -->
 
 <!--
