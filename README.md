@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - One-Liners](https://imgs.xkcd.com/comics/one_liners.png)
+![XKCD # - Circuit Symbols](https://imgs.xkcd.com/comics/circuit_symbols.png)
 <!-- XKCD_END -->
 
 <!--
