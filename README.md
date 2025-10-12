@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Circuit Symbols](https://imgs.xkcd.com/comics/circuit_symbols.png)
+![XKCD # - Pep Talk](https://imgs.xkcd.com/comics/pep_talk.png)
 <!-- XKCD_END -->
 
 <!--
