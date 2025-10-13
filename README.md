@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Pep Talk](https://imgs.xkcd.com/comics/pep_talk.png)
+![XKCD # - Speed and Danger](https://imgs.xkcd.com/comics/speed_and_danger.png)
 <!-- XKCD_END -->
 
 <!--
