@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Cohort and Age Effects](https://imgs.xkcd.com/comics/cohort_and_age_effects.png)
+![XKCD # - Alone](https://imgs.xkcd.com/comics/alone.png)
 <!-- XKCD_END -->
 
 <!--
