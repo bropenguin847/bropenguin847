@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Thor Tools](https://imgs.xkcd.com/comics/thor_tools.png)
+![XKCD # - Linguistics Gossip](https://imgs.xkcd.com/comics/linguistics_gossip.png)
 <!-- XKCD_END -->
 
 <!--
