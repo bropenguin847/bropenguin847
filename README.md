@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Linguistics Gossip](https://imgs.xkcd.com/comics/linguistics_gossip.png)
+![XKCD # - DFS](https://imgs.xkcd.com/comics/dfs.png)
 <!-- XKCD_END -->
 
 <!--
