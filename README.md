@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Materials Scientists](https://imgs.xkcd.com/comics/materials_scientists.png)
+![XKCD # - Wifi vs Cellular](https://imgs.xkcd.com/comics/wifi_vs_cellular.png)
 <!-- XKCD_END -->
 
 <!--
