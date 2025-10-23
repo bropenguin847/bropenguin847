@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Wifi vs Cellular](https://imgs.xkcd.com/comics/wifi_vs_cellular.png)
+![XKCD # - Recombination And Reionization](https://imgs.xkcd.com/comics/recombination_and_reionization.png)
 <!-- XKCD_END -->
 
 <!--
