@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Recombination And Reionization](https://imgs.xkcd.com/comics/recombination_and_reionization.png)
+![XKCD # - Disaster Movie](https://imgs.xkcd.com/comics/disaster_movie.png)
 <!-- XKCD_END -->
 
 <!--
