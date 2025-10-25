@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Disaster Movie](https://imgs.xkcd.com/comics/disaster_movie.png)
+![XKCD # - Bumblebees](https://imgs.xkcd.com/comics/bumblebees.png)
 <!-- XKCD_END -->
 
 <!--
