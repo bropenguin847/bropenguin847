@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Converting to Metric](https://imgs.xkcd.com/comics/converting_to_metric.png)
+![XKCD # - Cursed mRNA Cocktail](https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png)
 <!-- XKCD_END -->
 
 <!--
