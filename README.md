@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - UFO Evidence](https://imgs.xkcd.com/comics/ufo_evidence.png)
+![XKCD # - Dehydration](https://imgs.xkcd.com/comics/dehydration.png)
 <!-- XKCD_END -->
 
 <!--
