@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Dehydration](https://imgs.xkcd.com/comics/dehydration.png)
+![XKCD # - Masks](https://imgs.xkcd.com/comics/masks.png)
 <!-- XKCD_END -->
 
 <!--
