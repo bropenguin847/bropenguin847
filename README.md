@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - goto](https://imgs.xkcd.com/comics/goto.png)
+![XKCD # - Woodpecker](https://imgs.xkcd.com/comics/woodpecker.png)
 <!-- XKCD_END -->
 
 <!--
