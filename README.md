@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Red Spiders 2](https://imgs.xkcd.com/comics/red_spiders_2.jpg)
+![XKCD # - Weird Hill](https://imgs.xkcd.com/comics/weird_hill.png)
 <!-- XKCD_END -->
 
 <!--
