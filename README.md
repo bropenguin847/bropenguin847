@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Siri](https://imgs.xkcd.com/comics/siri.png)
+![XKCD # - The Search](https://imgs.xkcd.com/comics/the_search.png)
 <!-- XKCD_END -->
 
 <!--
