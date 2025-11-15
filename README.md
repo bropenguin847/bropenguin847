@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Every Major's Terrible](https://imgs.xkcd.com/comics/every_majors_terrible.png)
+![XKCD # - T-shirts](https://imgs.xkcd.com/comics/t-shirts.jpg)
 <!-- XKCD_END -->
 
 <!--
