@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - T-shirts](https://imgs.xkcd.com/comics/t-shirts.jpg)
+![XKCD # - Spinal Tap Amps](https://imgs.xkcd.com/comics/spinal_tap_amps.png)
 <!-- XKCD_END -->
 
 <!--
