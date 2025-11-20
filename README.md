@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - The Universal Label](https://imgs.xkcd.com/comics/the_universal_label.png)
+![XKCD # - Going West](https://imgs.xkcd.com/comics/going_west.png)
 <!-- XKCD_END -->
 
 <!--
