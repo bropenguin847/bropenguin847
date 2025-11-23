@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Windows 7](https://imgs.xkcd.com/comics/windows_7.png)
+![XKCD # - Desert Golfing](https://imgs.xkcd.com/comics/desert_golfing.png)
 <!-- XKCD_END -->
 
 <!--
