@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - String Theory](https://imgs.xkcd.com/comics/string_theory.png)
+![XKCD # - Wisdom Teeth](https://imgs.xkcd.com/comics/wisdom_teeth.png)
 <!-- XKCD_END -->
 
 <!--
