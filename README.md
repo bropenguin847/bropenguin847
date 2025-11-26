@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Wisdom Teeth](https://imgs.xkcd.com/comics/wisdom_teeth.png)
+![XKCD # - Gravitational Waves](https://imgs.xkcd.com/comics/gravitational_waves.png)
 <!-- XKCD_END -->
 
 <!--
