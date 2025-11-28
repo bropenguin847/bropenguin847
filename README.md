@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Candy Button Paper](https://imgs.xkcd.com/comics/candy_button_paper.png)
+![XKCD # - Greenhouse Effect](https://imgs.xkcd.com/comics/greenhouse_effect.png)
 <!-- XKCD_END -->
 
 <!--
