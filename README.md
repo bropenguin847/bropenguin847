@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Gravitational Waves](https://imgs.xkcd.com/comics/gravitational_waves.png)
+![XKCD # - xkcd Phone 5](https://imgs.xkcd.com/comics/xkcd_phone_5.png)
 <!-- XKCD_END -->
 
 <!--
