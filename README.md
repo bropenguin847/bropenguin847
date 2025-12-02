@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Duty Calls](https://imgs.xkcd.com/comics/duty_calls.png)
+![XKCD # - Black Hat Support](https://imgs.xkcd.com/comics/black_hat_support.png)
 <!-- XKCD_END -->
 
 <!--
