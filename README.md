@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Worst Ladder](https://imgs.xkcd.com/comics/worst_ladder.png)
+![XKCD # - Starshade](https://imgs.xkcd.com/comics/starshade.png)
 <!-- XKCD_END -->
 
 <!--
