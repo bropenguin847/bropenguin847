@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Starshade](https://imgs.xkcd.com/comics/starshade.png)
+![XKCD # - Latency](https://imgs.xkcd.com/comics/latency.png)
 <!-- XKCD_END -->
 
 <!--
