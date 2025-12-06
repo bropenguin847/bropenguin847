@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Latency](https://imgs.xkcd.com/comics/latency.png)
+![XKCD # - Dying Gift](https://imgs.xkcd.com/comics/dying_gift.png)
 <!-- XKCD_END -->
 
 <!--
