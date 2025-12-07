@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Dying Gift](https://imgs.xkcd.com/comics/dying_gift.png)
+![XKCD # - Choices: Part 3](https://imgs.xkcd.com/comics/choices_part_3.jpg)
 <!-- XKCD_END -->
 
 <!--
