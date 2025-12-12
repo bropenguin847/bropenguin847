@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Voyager 1](https://imgs.xkcd.com/comics/voyager_1.png)
+![XKCD # - Simultaneous](https://imgs.xkcd.com/comics/simultaneous.png)
 <!-- XKCD_END -->
 
 <!--
