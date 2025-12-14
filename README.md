@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Conditional Risk](https://imgs.xkcd.com/comics/conditional_risk.png)
+![XKCD # - xkcd Loves the Discovery Channel](https://imgs.xkcd.com/comics/xkcd_loves_the_discovery_channel.png)
 <!-- XKCD_END -->
 
 <!--
