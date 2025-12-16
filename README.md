@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Survivorship Bias](https://imgs.xkcd.com/comics/survivorship_bias.png)
+![XKCD # - California](https://imgs.xkcd.com/comics/california.png)
 <!-- XKCD_END -->
 
 <!--
