@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - California](https://imgs.xkcd.com/comics/california.png)
+![XKCD # - Physicists](https://imgs.xkcd.com/comics/physicists.png)
 <!-- XKCD_END -->
 
 <!--
