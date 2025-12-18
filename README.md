@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Physicists](https://imgs.xkcd.com/comics/physicists.png)
+![XKCD # - Backup Batteries](https://imgs.xkcd.com/comics/backup_batteries.png)
 <!-- XKCD_END -->
 
 <!--
