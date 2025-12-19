@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Backup Batteries](https://imgs.xkcd.com/comics/backup_batteries.png)
+![XKCD # - Musical Scales](https://imgs.xkcd.com/comics/musical_scales.png)
 <!-- XKCD_END -->
 
 <!--
