@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Common Star Types](https://imgs.xkcd.com/comics/common_star_types.png)
+![XKCD # - iOS Keyboard](https://imgs.xkcd.com/comics/ios_keyboard.png)
 <!-- XKCD_END -->
 
 <!--
