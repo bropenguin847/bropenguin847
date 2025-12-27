@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - December 25th Launch](https://imgs.xkcd.com/comics/december_25th_launch.png)
+![XKCD # - Tattoo](https://imgs.xkcd.com/comics/tattoo.png)
 <!-- XKCD_END -->
 
 <!--
