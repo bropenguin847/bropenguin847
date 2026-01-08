@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Number Line](https://imgs.xkcd.com/comics/number_line.png)
+![XKCD # - The Time Before and After Land](https://imgs.xkcd.com/comics/the_time_before_and_after_land.png)
 <!-- XKCD_END -->
 
 <!--
