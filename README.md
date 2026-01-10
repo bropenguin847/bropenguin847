@@ -60,7 +60,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Dubious Study](https://imgs.xkcd.com/comics/dubious_study.png)
+![XKCD # - The Six Platonic Solids](https://imgs.xkcd.com/comics/the_six_platonic_solids.png)
 <!-- XKCD_END -->
 
 <!--
