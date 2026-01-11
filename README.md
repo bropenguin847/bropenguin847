@@ -17,11 +17,13 @@ Initially, these are for my own personal reference. Now, I maintain it for my fr
 <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
 <img align="left" alt="Arduino" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Github" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" />
 <img align="left" alt="EasyEDA" width="45px" style="padding-right:10px;" src="images/easyeda-thumbnail.png" />
 <img align="left" alt="Matlab" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />
 <img align="left" alt="C++" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" />
-<img align="left" alt="Gimp" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gimp/gimp-original.svg" />
+<img align="left" alt="Kali" width="45px" style="padding-right:10px;" src="images/kali-dragon-icon.svg" />
+<img align="left" alt="Ghidra" width="45px" style="padding-right:10px;" src="images/ghidra_logo.svg" />
+<!-- <img align="left" alt="Gimp" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gimp/gimp-original.svg" /> -->
 
 <br/>
 
