@@ -61,7 +61,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Selection Bias](https://imgs.xkcd.com/comics/selection_bias.png)
+![XKCD # - Name Dominoes](https://imgs.xkcd.com/comics/name_dominoes.png)
 <!-- XKCD_END -->
 
 <!--
