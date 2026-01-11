@@ -61,7 +61,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Name Dominoes](https://imgs.xkcd.com/comics/name_dominoes.png)
+![XKCD # - Brand Identity](https://imgs.xkcd.com/comics/brand_identity.png)
 <!-- XKCD_END -->
 
 <!--
