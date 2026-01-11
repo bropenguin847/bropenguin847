@@ -61,7 +61,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - The Six Platonic Solids](https://imgs.xkcd.com/comics/the_six_platonic_solids.png)
+![XKCD # - Selection Bias](https://imgs.xkcd.com/comics/selection_bias.png)
 <!-- XKCD_END -->
 
 <!--
