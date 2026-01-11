@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&weight=550&size=40&duration=3000&pause=1000&vCenter=true&color=0F40F7&background=00CFFF20&center=true&width=1000&height=50&lines=My+name+is+Keith+Lim+%F0%9F%90%A7;My+main+language+is+Python+%F0%9F%90%8D;I+also+dabble+in+a+little+C%2B%2B;My+upcoming+project+is+a+PCB+namecard)](https://git.io/typing-svg)
  
-I am an Electronics Enthusiast and Hobbyist and I love all things electronics. ⭐️⚡️💥🛠️
+I am an Electronics Enthusiast and Hobbyist and I love all things electronics. ⚡️💥🛠️
 
 I started my Electronics journey when I was in my Diploma days. From dismantling electic steamer
 to custom designing my own PCB. I like to do projects that resonate with my interest and or it is just plain cool!
 
-Now, I'm continuing my path in UTM, studying Electronics Engineering.
+Now, I'm continuing my journey in Univeriti Teknologi Malaysia (UTM), studying Bachelors in Electronics Engineering.
 
 My repo consists of the projects I've built from the past. Such as C++ calculator and an ESP32 controller bluetooth car.
 The project that I am most proud of is my Notes Collection from my Scientific Programming course. The repo consists of Notes, Exercises, Scripts to try on and many more.
@@ -30,15 +30,14 @@ In the future,  I would like to decorate my profile with my own personal website
 
 Here are a few of my upcoming projects:
 - Open Source IC Design projects
-- Portable Power supply with casing
 - Personal Website / Web Resume with Python (Self Host)
   (HTTP methods and APIs, Request module, simple website with Flask, django & fastAPI)
+- Portable Power supply with casing
 - Hexapod
 - Hacking hardware
 - Making a game with Python
-- Python chat bot
 - Automating with Python
-- something to do with Johor Bus api and stuff
+- Automapping with Johor Bus API
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bropenguin847/bropenguin847/output/github-contribution-grid-snake-dark.svg">
@@ -51,8 +50,10 @@ Here are a few of my upcoming projects:
 
 ## 📫 Let's Connect!
 <a href="https://www.linkedin.com/in/lim-yeow-sheng/">
-  <img src="images/linkedin.png" width="40" height="40" alt="LinkedIn">
+  <img src="images/linkedin.png" width="50" height="50" alt="LinkedIn">
 </a>
+<br>
+<br>
 <br>
 Feel free to check out my projects, drop suggestions, or say hi! <br>
 I'm always excited to grow and learn more. 🌱
