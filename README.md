@@ -63,7 +63,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Subliminal](https://imgs.xkcd.com/comics/subliminal.png)
+![XKCD # - Felsius](https://imgs.xkcd.com/comics/felsius.png)
 <!-- XKCD_END -->
 
 <!--
