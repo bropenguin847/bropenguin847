@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Screenshot](https://imgs.xkcd.com/comics/screenshot.png)
+![XKCD # - Soda Sugar Comparisons](https://imgs.xkcd.com/comics/soda_sugar_comparisons.png)
 <!-- XKCD_END -->
 
 <!--
