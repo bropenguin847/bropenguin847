@@ -63,7 +63,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Metacarcinization](https://imgs.xkcd.com/comics/metacarcinization.png)
+![XKCD # - Screenshot](https://imgs.xkcd.com/comics/screenshot.png)
 <!-- XKCD_END -->
 
 <!--
