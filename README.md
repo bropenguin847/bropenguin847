@@ -26,6 +26,7 @@ Initially, these are for my own personal reference. Now, I maintain it for my fr
 <!-- <img align="left" alt="Gimp" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gimp/gimp-original.svg" /> -->
 
 <br/>
+---
 
 ## 💡 Future Ideas
 In the future,  I would like to decorate my profile with my own personal website.
@@ -48,7 +49,7 @@ Here are a few of my upcoming projects:
 </picture>
 
 ## 🔭 Current Projects:
-[PCB Business Card](https://github.com/bropenguin847/PCB_Business_Card)
+[PCB Business Card V2](https://github.com/bropenguin847/PCB_Business_Card)
 
 ## 📫 Let's Connect!
 <a href="https://www.linkedin.com/in/lim-yeow-sheng/">
