@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Cell Phones](https://imgs.xkcd.com/comics/cell_phones.png)
+![XKCD # - Highway Engineer Pranks](https://imgs.xkcd.com/comics/highway_engineer_pranks.png)
 <!-- XKCD_END -->
 
 <!--
