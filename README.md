@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Highway Engineer Pranks](https://imgs.xkcd.com/comics/highway_engineer_pranks.png)
+![XKCD # - Iambic Pentameter](https://imgs.xkcd.com/comics/iambic_pentameter.jpg)
 <!-- XKCD_END -->
 
 <!--
