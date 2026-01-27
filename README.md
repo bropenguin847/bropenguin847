@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Iambic Pentameter](https://imgs.xkcd.com/comics/iambic_pentameter.jpg)
+![XKCD # - One-Sided](https://imgs.xkcd.com/comics/one-sided.png)
 <!-- XKCD_END -->
 
 <!--
