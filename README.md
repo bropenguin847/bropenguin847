@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - One-Sided](https://imgs.xkcd.com/comics/one-sided.png)
+![XKCD # - Hair Growth Rate](https://imgs.xkcd.com/comics/hair_growth_rate.png)
 <!-- XKCD_END -->
 
 <!--
