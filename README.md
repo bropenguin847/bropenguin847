@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Hair Growth Rate](https://imgs.xkcd.com/comics/hair_growth_rate.png)
+![XKCD # - Worst-Case Shopping](https://imgs.xkcd.com/comics/worst_case_shopping.png)
 <!-- XKCD_END -->
 
 <!--
