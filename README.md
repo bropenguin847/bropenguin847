@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Worst-Case Shopping](https://imgs.xkcd.com/comics/worst_case_shopping.png)
+![XKCD # - Consensus Time](https://imgs.xkcd.com/comics/consensus_time.png)
 <!-- XKCD_END -->
 
 <!--
