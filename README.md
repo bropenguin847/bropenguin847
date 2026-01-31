@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Consensus Time](https://imgs.xkcd.com/comics/consensus_time.png)
+![XKCD # - Anti-Drone Eagles](https://imgs.xkcd.com/comics/anti_drone_eagles.png)
 <!-- XKCD_END -->
 
 <!--
