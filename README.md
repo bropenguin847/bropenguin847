@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Converting to Metric](https://imgs.xkcd.com/comics/converting_to_metric.png)
+![XKCD # - Basketball Earth](https://imgs.xkcd.com/comics/basketball_earth.png)
 <!-- XKCD_END -->
 
 <!--
