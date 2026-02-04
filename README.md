@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Dignified](https://imgs.xkcd.com/comics/dignified.png)
+![XKCD # - Sabotage](https://imgs.xkcd.com/comics/sabotage.png)
 <!-- XKCD_END -->
 
 <!--
