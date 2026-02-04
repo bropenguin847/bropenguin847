@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&weight=550&size=40&duration=3000&pause=1000&vCenter=true&color=0F40F7&background=00CFFF20&center=true&width=1000&height=50&lines=My+name+is+Keith+Lim+%F0%9F%90%A7;My+main+language+is+Python+%F0%9F%90%8D;I+also+dabble+in+a+little+C%2B%2B;My+upcoming+project+is+a+PCB+namecard)](https://git.io/typing-svg)
  
 I am an Electronics Enthusiast and Hobbyist and I love all things electronics. ⚡️💥🛠️
+<img title="Malaysia" alt="Bahasa Melayu" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/my.svg" width="25">
 
 I started my Electronics journey when I was in my Diploma days. From dismantling electic steamer
 to custom designing my own PCB. I like to do projects that resonate with my interest and or it is just plain cool!
