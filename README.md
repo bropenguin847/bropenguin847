@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Sabotage](https://imgs.xkcd.com/comics/sabotage.png)
+![XKCD # - Alternative Energy Revolution](https://imgs.xkcd.com/comics/alternative_energy_revolution.jpg)
 <!-- XKCD_END -->
 
 <!--
