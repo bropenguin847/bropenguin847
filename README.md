@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Alternative Energy Revolution](https://imgs.xkcd.com/comics/alternative_energy_revolution.jpg)
+![XKCD # - Hurricane Names](https://imgs.xkcd.com/comics/hurricane_names.png)
 <!-- XKCD_END -->
 
 <!--
