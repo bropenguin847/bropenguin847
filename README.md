@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Hurricane Names](https://imgs.xkcd.com/comics/hurricane_names.png)
+![XKCD # - Crossword Constructors](https://imgs.xkcd.com/comics/crossword_constructors.png)
 <!-- XKCD_END -->
 
 <!--
