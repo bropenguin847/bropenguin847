@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - The Sierpinski Penis Game](https://imgs.xkcd.com/comics/the_sierpinski_penis_game.jpg)
+![XKCD # - Asshole](https://imgs.xkcd.com/comics/asshole.png)
 <!-- XKCD_END -->
 
 <!--
