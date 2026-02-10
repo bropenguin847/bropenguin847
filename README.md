@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Asshole](https://imgs.xkcd.com/comics/asshole.png)
+![XKCD # - Scientific Paper Graph Quality](https://imgs.xkcd.com/comics/scientific_paper_graph_quality.png)
 <!-- XKCD_END -->
 
 <!--
