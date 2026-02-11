@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Scientific Paper Graph Quality](https://imgs.xkcd.com/comics/scientific_paper_graph_quality.png)
+![XKCD # - Escape Speed](https://imgs.xkcd.com/comics/escape_speed.png)
 <!-- XKCD_END -->
 
 <!--
