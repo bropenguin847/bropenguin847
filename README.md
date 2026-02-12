@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Escape Speed](https://imgs.xkcd.com/comics/escape_speed.png)
+![XKCD # - Dubious Study](https://imgs.xkcd.com/comics/dubious_study.png)
 <!-- XKCD_END -->
 
 <!--
