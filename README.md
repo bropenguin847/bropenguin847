@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Dubious Study](https://imgs.xkcd.com/comics/dubious_study.png)
+![XKCD # - Swimsuit Issue](https://imgs.xkcd.com/comics/swimsuit_issue.png)
 <!-- XKCD_END -->
 
 <!--
