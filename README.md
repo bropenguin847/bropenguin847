@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Kepler](https://imgs.xkcd.com/comics/kepler.jpg)
+![XKCD # - JPEG2000](https://imgs.xkcd.com/comics/jpeg2000.png)
 <!-- XKCD_END -->
 
 <!--
