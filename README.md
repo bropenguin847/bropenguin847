@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Formal Languages](https://imgs.xkcd.com/comics/formal_languages.png)
+![XKCD # - The Raven](https://imgs.xkcd.com/comics/the_raven.jpg)
 <!-- XKCD_END -->
 
 <!--
