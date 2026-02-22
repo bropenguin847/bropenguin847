@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Five-Minute Comics: Part 1](https://imgs.xkcd.com/comics/five_minute_comics_part_1.png)
+![XKCD # - Marble Run](https://imgs.xkcd.com/comics/marble_run.png)
 <!-- XKCD_END -->
 
 <!--
