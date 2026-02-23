@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Marble Run](https://imgs.xkcd.com/comics/marble_run.png)
+![XKCD # - Home Organization](https://imgs.xkcd.com/comics/home_organization.png)
 <!-- XKCD_END -->
 
 <!--
