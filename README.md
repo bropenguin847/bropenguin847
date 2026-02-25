@@ -11,8 +11,7 @@ to custom designing my own PCB. I like to do projects that resonate with my inte
 Now, I'm continuing my journey in Univeriti Teknologi Malaysia (UTM), studying Bachelors in Electronics Engineering.
 
 My repo consists of the projects I've built from the past. Such as C++ calculator and an ESP32 controller bluetooth car.
-The project that I am most proud of is my Notes Collection from my Scientific Programming course. The repo consists of Notes, Exercises, Scripts to try on and many more.
-Initially, these are for my own personal reference. Now, I maintain it for my friends to check out on.
+The project that I am most proud of is Price Catcher. Check it out [here.](https://github.com/bropenguin847/Price_Catcher)
 
 ## 🛠️ Tools
 <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
