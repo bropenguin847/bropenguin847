@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Super Bowl Watch Party](https://imgs.xkcd.com/comics/super_bowl_watch_party.png)
+![XKCD # - Focus Knob](https://imgs.xkcd.com/comics/focus_knob.png)
 <!-- XKCD_END -->
 
 <!--
