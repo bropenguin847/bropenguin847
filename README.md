@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - That's What SHE Said](https://imgs.xkcd.com/comics/thats_what_she_said.png)
+![XKCD # - Cell Phones](https://imgs.xkcd.com/comics/cell_phones.png)
 <!-- XKCD_END -->
 
 <!--
