@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - RIP John Conway](https://imgs.xkcd.com/comics/rip_john_conway.gif)
+![XKCD # - All Adobe Updates](https://imgs.xkcd.com/comics/all_adobe_updates.png)
 <!-- XKCD_END -->
 
 <!--
