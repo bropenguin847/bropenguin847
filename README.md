@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - All Adobe Updates](https://imgs.xkcd.com/comics/all_adobe_updates.png)
+![XKCD # - *@gmail.com](https://imgs.xkcd.com/comics/gmail_com.png)
 <!-- XKCD_END -->
 
 <!--
