@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Train](https://imgs.xkcd.com/comics/train.png)
+![XKCD # - Travel Ghost](https://imgs.xkcd.com/comics/travel_ghosts.png)
 <!-- XKCD_END -->
 
 <!--
