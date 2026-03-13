@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Towed Message](https://imgs.xkcd.com/comics/towed_message.png)
+![XKCD # - Historical Dates](https://imgs.xkcd.com/comics/historical_dates.png)
 <!-- XKCD_END -->
 
 <!--
