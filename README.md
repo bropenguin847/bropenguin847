@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Golden Hammer](https://imgs.xkcd.com/comics/golden_hammer.png)
+![XKCD # - Turn Signals](https://imgs.xkcd.com/comics/turn_signals.png)
 <!-- XKCD_END -->
 
 <!--
