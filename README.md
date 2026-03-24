@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Turn Signals](https://imgs.xkcd.com/comics/turn_signals.png)
+![XKCD # - Plastic Bags](https://imgs.xkcd.com/comics/plastic_bags.png)
 <!-- XKCD_END -->
 
 <!--
