@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Plastic Bags](https://imgs.xkcd.com/comics/plastic_bags.png)
+![XKCD # - How To Deliver Christmas Presents](https://imgs.xkcd.com/comics/how_to_deliver_christmas_presents.png)
 <!-- XKCD_END -->
 
 <!--
