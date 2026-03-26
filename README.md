@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - How To Deliver Christmas Presents](https://imgs.xkcd.com/comics/how_to_deliver_christmas_presents.png)
+![XKCD # - Travel Ghost](https://imgs.xkcd.com/comics/travel_ghosts.png)
 <!-- XKCD_END -->
 
 <!--
