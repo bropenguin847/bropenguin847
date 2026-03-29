@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - March of the Penguins](https://imgs.xkcd.com/comics/march_of_the_penguins.png)
+![XKCD # - Supreme Court](https://imgs.xkcd.com/comics/supreme_court.png)
 <!-- XKCD_END -->
 
 <!--
