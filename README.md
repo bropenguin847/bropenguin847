@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Math Work](https://imgs.xkcd.com/comics/math_work.png)
+![XKCD # - Cryptic Wifi Networks](https://imgs.xkcd.com/comics/cryptic_wifi_networks.png)
 <!-- XKCD_END -->
 
 <!--
