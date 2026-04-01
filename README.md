@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Cryptic Wifi Networks](https://imgs.xkcd.com/comics/cryptic_wifi_networks.png)
+![XKCD # - Turtle Sandwich Standard Model](https://imgs.xkcd.com/comics/turtle_sandwich_standard_model.png)
 <!-- XKCD_END -->
 
 <!--
