@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Encryptic](https://imgs.xkcd.com/comics/encryptic.png)
+![XKCD # - One Two](https://imgs.xkcd.com/comics/one_two.png)
 <!-- XKCD_END -->
 
 <!--
