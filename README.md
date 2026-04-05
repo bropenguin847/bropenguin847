@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Apple Spectrum](https://imgs.xkcd.com/comics/apple_spectrum.png)
+![XKCD # - Crazy Straws](https://imgs.xkcd.com/comics/crazy_straws.png)
 <!-- XKCD_END -->
 
 <!--
