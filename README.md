@@ -15,18 +15,20 @@ The project that I am most proud of is Price Catcher. Check it out [here.](https
 
 ## 🛠️ Tools
 <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
-<img align="left" alt="Arduino" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Github" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" />
-<img align="left" alt="EasyEDA" width="45px" style="padding-right:10px;" src="images/easyeda-thumbnail.png" />
+<!-- <img align="left" alt="EasyEDA" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/easyeda" /> -->
+<img align="left" alt="EasyEDA" width="45px" style="padding-right:10px; border-radius: 20px;" src="images/easyeda-thumbnail.png" />
+<img align="left" alt="Arduino" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/arduino" />
+<img align="left" alt="GitHub" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/white" />
+<img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/git" />
 <img align="left" alt="Matlab" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />
 <img align="left" alt="C++" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Kali" width="45px" style="padding-right:10px;" src="images/kali-dragon-icon.svg" />
 <img align="left" alt="Ghidra" width="45px" style="padding-right:10px;" src="images/ghidra_logo.svg" />
 <!-- <img align="left" alt="Gimp" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gimp/gimp-original.svg" /> -->
+<img align="left" alt="Gimp" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/gimp" />
 
 <br/>
-
+<br/>
 
 ## 💡 Future Ideas
 In the future,  I would like to decorate my profile with my own personal website.
