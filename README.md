@@ -64,7 +64,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Genetic Analysis](https://imgs.xkcd.com/comics/genetic_analysis.png)
+![XKCD # - Apple Spectrum](https://imgs.xkcd.com/comics/apple_spectrum.png)
 <!-- XKCD_END -->
 
 <!--
