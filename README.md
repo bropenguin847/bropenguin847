@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Crazy Straws](https://imgs.xkcd.com/comics/crazy_straws.png)
+![XKCD # - Vice President First Names](https://imgs.xkcd.com/comics/vice_president_first_names.png)
 <!-- XKCD_END -->
 
 <!--
