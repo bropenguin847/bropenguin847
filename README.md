@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Mars Landing Video](https://imgs.xkcd.com/comics/mars_landing_video.png)
+![XKCD # - xkcd Phone](https://imgs.xkcd.com/comics/xkcd_phone.png)
 <!-- XKCD_END -->
 
 <!--
