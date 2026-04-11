@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Clark Gable](https://imgs.xkcd.com/comics/clark_gable.jpg)
+![XKCD # - Formatting Meeting](https://imgs.xkcd.com/comics/formatting_meeting.png)
 <!-- XKCD_END -->
 
 <!--
