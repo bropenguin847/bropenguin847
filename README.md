@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Classhole](https://imgs.xkcd.com/comics/classhole.jpg)
+![XKCD # - Super Bowl Context](https://imgs.xkcd.com/comics/super_bowl_context.png)
 <!-- XKCD_END -->
 
 <!--
