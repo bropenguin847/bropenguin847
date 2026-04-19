@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Super Bowl Context](https://imgs.xkcd.com/comics/super_bowl_context.png)
+![XKCD # - Helium Synthesis](https://imgs.xkcd.com/comics/helium_synthesis.png)
 <!-- XKCD_END -->
 
 <!--
