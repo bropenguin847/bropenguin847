@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Helium Synthesis](https://imgs.xkcd.com/comics/helium_synthesis.png)
+![XKCD # - Rose Petals](https://imgs.xkcd.com/comics/rose_petals.png)
 <!-- XKCD_END -->
 
 <!--
