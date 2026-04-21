@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Rose Petals](https://imgs.xkcd.com/comics/rose_petals.png)
+![XKCD # - Water Phase Diagram](https://imgs.xkcd.com/comics/water_phase_diagram.png)
 <!-- XKCD_END -->
 
 <!--
