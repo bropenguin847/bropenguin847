@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Water Phase Diagram](https://imgs.xkcd.com/comics/water_phase_diagram.png)
+![XKCD # - Carnot Cycle](https://imgs.xkcd.com/comics/carnot_cycle.png)
 <!-- XKCD_END -->
 
 <!--
