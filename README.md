@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Cell Phones](https://imgs.xkcd.com/comics/cell_phones.png)
+![XKCD # - PermaCal](https://imgs.xkcd.com/comics/permacal.png)
 <!-- XKCD_END -->
 
 <!--
