@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - When I'm Back at a Keyboard](https://imgs.xkcd.com/comics/when_im_back_at_a_keyboard.png)
+![XKCD # - *@gmail.com](https://imgs.xkcd.com/comics/gmail_com.png)
 <!-- XKCD_END -->
 
 <!--
