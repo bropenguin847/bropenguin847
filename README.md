@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Orbital Mechanics](https://imgs.xkcd.com/comics/orbital_mechanics.png)
+![XKCD # - Alien Theories](https://imgs.xkcd.com/comics/alien_theories.png)
 <!-- XKCD_END -->
 
 <!--
