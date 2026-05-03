@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Cat Proximity](https://imgs.xkcd.com/comics/cat_proximity.png)
+![XKCD # - Carnot Cycle](https://imgs.xkcd.com/comics/carnot_cycle.png)
 <!-- XKCD_END -->
 
 <!--
