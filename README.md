@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Carnot Cycle](https://imgs.xkcd.com/comics/carnot_cycle.png)
+![XKCD # - A Bunch of Rocks](https://imgs.xkcd.com/comics/a_bunch_of_rocks.png)
 <!-- XKCD_END -->
 
 <!--
