@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - A Bunch of Rocks](https://imgs.xkcd.com/comics/a_bunch_of_rocks.png)
+![XKCD # - Question](https://imgs.xkcd.com/comics/question.png)
 <!-- XKCD_END -->
 
 <!--
