@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Rack Unit](https://imgs.xkcd.com/comics/rack_unit.png)
+![XKCD # - Error Bars](https://imgs.xkcd.com/comics/error_bars.png)
 <!-- XKCD_END -->
 
 <!--
