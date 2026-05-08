@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Error Bars](https://imgs.xkcd.com/comics/error_bars.png)
+![XKCD # - Ozymandias](https://imgs.xkcd.com/comics/ozymandias.png)
 <!-- XKCD_END -->
 
 <!--
