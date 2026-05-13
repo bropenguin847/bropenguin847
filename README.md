@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Effects of High Altitude](https://imgs.xkcd.com/comics/effects_of_high_altitude.png)
+![XKCD # - Bug](https://imgs.xkcd.com/comics/bug.png)
 <!-- XKCD_END -->
 
 <!--
