@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Empirical](https://imgs.xkcd.com/comics/empirical.png)
+![XKCD # - Bun](https://imgs.xkcd.com/comics/bun.png)
 <!-- XKCD_END -->
 
 <!--
