@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Vaccine Ordering](https://imgs.xkcd.com/comics/vaccine_ordering.png)
+![XKCD # - Wardrobe](https://imgs.xkcd.com/comics/wardrobe.png)
 <!-- XKCD_END -->
 
 <!--
