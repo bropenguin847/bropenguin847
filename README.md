@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Marketing Interview](https://imgs.xkcd.com/comics/marketing_interview.png)
+![XKCD # - Academia vs. Business](https://imgs.xkcd.com/comics/academia_vs_business.png)
 <!-- XKCD_END -->
 
 <!--
