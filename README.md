@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Rover Replies](https://imgs.xkcd.com/comics/rover_replies.png)
+![XKCD # - Sketchiness](https://imgs.xkcd.com/comics/sketchiness.png)
 <!-- XKCD_END -->
 
 <!--
