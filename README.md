@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Geology](https://imgs.xkcd.com/comics/geology.png)
+![XKCD # - Sloped Border](https://imgs.xkcd.com/comics/sloped_border.png)
 <!-- XKCD_END -->
 
 <!--
