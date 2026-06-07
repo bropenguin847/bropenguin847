@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Differentiation and Integration](https://imgs.xkcd.com/comics/differentiation_and_integration.png)
+![XKCD # - Weekend](https://imgs.xkcd.com/comics/weekend.png)
 <!-- XKCD_END -->
 
 <!--
