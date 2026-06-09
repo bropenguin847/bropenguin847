@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Flying Cars](https://imgs.xkcd.com/comics/flying_cars.png)
+![XKCD # - Spinthariscope](https://imgs.xkcd.com/comics/spinthariscope.png)
 <!-- XKCD_END -->
 
 <!--
