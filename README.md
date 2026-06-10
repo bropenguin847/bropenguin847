@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Spinthariscope](https://imgs.xkcd.com/comics/spinthariscope.png)
+![XKCD # - A New CAPTCHA Approach](https://imgs.xkcd.com/comics/a_new_captcha_approach.png)
 <!-- XKCD_END -->
 
 <!--
