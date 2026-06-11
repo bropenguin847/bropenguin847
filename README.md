@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - A New CAPTCHA Approach](https://imgs.xkcd.com/comics/a_new_captcha_approach.png)
+![XKCD # - Mispronouncing](https://imgs.xkcd.com/comics/mispronouncing.png)
 <!-- XKCD_END -->
 
 <!--
