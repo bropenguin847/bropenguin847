@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Mispronouncing](https://imgs.xkcd.com/comics/mispronouncing.png)
+![XKCD # - ‮LTR](https://imgs.xkcd.com/comics/rtl.png)
 <!-- XKCD_END -->
 
 <!--
