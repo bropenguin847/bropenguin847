@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Gravitational Mass](https://imgs.xkcd.com/comics/gravitational_mass.jpg)
+![XKCD # - Magnetic Pole](https://imgs.xkcd.com/comics/magnetic_pole.png)
 <!-- XKCD_END -->
 
 <!--
