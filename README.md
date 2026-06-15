@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Magnetic Pole](https://imgs.xkcd.com/comics/magnetic_pole.png)
+![XKCD # - Unquote](https://imgs.xkcd.com/comics/unquote.png)
 <!-- XKCD_END -->
 
 <!--
