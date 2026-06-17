@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Interior Decorating](https://imgs.xkcd.com/comics/interior_decorating.png)
+![XKCD # - The Sierpinski Penis Game](https://imgs.xkcd.com/comics/the_sierpinski_penis_game.jpg)
 <!-- XKCD_END -->
 
 <!--
