@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Sandboxing Cycle](https://imgs.xkcd.com/comics/sandboxing_cycle.png)
+![XKCD # - Snare](https://imgs.xkcd.com/comics/snare.png)
 <!-- XKCD_END -->
 
 <!--
