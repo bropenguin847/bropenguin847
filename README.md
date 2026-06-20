@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Snare](https://imgs.xkcd.com/comics/snare.png)
+![XKCD # - Exoplanet Observation](https://imgs.xkcd.com/comics/exoplanet_observation.png)
 <!-- XKCD_END -->
 
 <!--
