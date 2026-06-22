@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Vaccine Tracker](https://imgs.xkcd.com/comics/vaccine_tracker.png)
+![XKCD # - The Six Platonic Solids](https://imgs.xkcd.com/comics/the_six_platonic_solids.png)
 <!-- XKCD_END -->
 
 <!--
