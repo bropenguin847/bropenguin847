@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Transit of Mercury](https://imgs.xkcd.com/comics/transit_of_mercury.png)
+![XKCD # - Mars Rovers](https://imgs.xkcd.com/comics/mars_rovers.png)
 <!-- XKCD_END -->
 
 <!--
