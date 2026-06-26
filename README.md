@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Mars Rovers](https://imgs.xkcd.com/comics/mars_rovers.png)
+![XKCD # - Move Fast and Break Things](https://imgs.xkcd.com/comics/move_fast_and_break_things.png)
 <!-- XKCD_END -->
 
 <!--
