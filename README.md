@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Seat Selection](https://imgs.xkcd.com/comics/seat_selection.png)
+![XKCD # - Reductionism](https://imgs.xkcd.com/comics/reductionism.png)
 <!-- XKCD_END -->
 
 <!--
