@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Making Things Difficult](https://imgs.xkcd.com/comics/making_things_difficult.png)
+![XKCD # - Cosmological Nostalgia Content](https://imgs.xkcd.com/comics/cosmological_nostalgia_content.png)
 <!-- XKCD_END -->
 
 <!--
