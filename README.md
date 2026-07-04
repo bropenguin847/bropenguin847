@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Sigil Cycle](https://imgs.xkcd.com/comics/sigil_cycle.png)
+![XKCD # - Exam Numbers](https://imgs.xkcd.com/comics/exam_numbers.png)
 <!-- XKCD_END -->
 
 <!--
