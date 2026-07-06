@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Old Days](https://imgs.xkcd.com/comics/old_days.png)
+![XKCD # - Higgs Boson](https://imgs.xkcd.com/comics/higgs_boson.png)
 <!-- XKCD_END -->
 
 <!--
