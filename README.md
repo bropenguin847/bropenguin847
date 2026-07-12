@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Spelling](https://imgs.xkcd.com/comics/spelling.png)
+![XKCD # - Spider Paleontology](https://imgs.xkcd.com/comics/spider_paleontology.png)
 <!-- XKCD_END -->
 
 <!--
