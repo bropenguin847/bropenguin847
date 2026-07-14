@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Overlapping Circles](https://imgs.xkcd.com/comics/overlapping_circles.png)
+![XKCD # - Linguists](https://imgs.xkcd.com/comics/linguists.png)
 <!-- XKCD_END -->
 
 <!--
