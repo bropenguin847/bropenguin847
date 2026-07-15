@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Linguists](https://imgs.xkcd.com/comics/linguists.png)
+![XKCD # - Sphere Tastiness](https://imgs.xkcd.com/comics/sphere_tastiness.png)
 <!-- XKCD_END -->
 
 <!--
