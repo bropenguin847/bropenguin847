@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Synonym Movies](https://imgs.xkcd.com/comics/synonym_movies.png)
+![XKCD # - Invisible Formatting](https://imgs.xkcd.com/comics/invisible_formatting.png)
 <!-- XKCD_END -->
 
 <!--
