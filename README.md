@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Invisible Formatting](https://imgs.xkcd.com/comics/invisible_formatting.png)
+![XKCD # - Asteroid News](https://imgs.xkcd.com/comics/asteroid_news.png)
 <!-- XKCD_END -->
 
 <!--
