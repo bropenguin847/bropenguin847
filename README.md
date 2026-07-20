@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Asteroid News](https://imgs.xkcd.com/comics/asteroid_news.png)
+![XKCD # - Faculty:Student Ratio](https://imgs.xkcd.com/comics/faculty_student_ratio.png)
 <!-- XKCD_END -->
 
 <!--
