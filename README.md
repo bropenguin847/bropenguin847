@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Trolley Problem](https://imgs.xkcd.com/comics/trolley_problem.png)
+![XKCD # - Fuzzy Blob](https://imgs.xkcd.com/comics/fuzzy_blob.png)
 <!-- XKCD_END -->
 
 <!--
