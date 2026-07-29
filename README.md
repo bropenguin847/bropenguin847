@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - USV-C](https://imgs.xkcd.com/comics/usv_c.png)
+![XKCD # - Grandpa Jason and Grandpa Chad](https://imgs.xkcd.com/comics/grandpa_jason_and_grandpa_chad.png)
 <!-- XKCD_END -->
 
 <!--
