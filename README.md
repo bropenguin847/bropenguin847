@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Waiting for the But](https://imgs.xkcd.com/comics/waiting_for_the_but.png)
+![XKCD # - Unification](https://imgs.xkcd.com/comics/unification.png)
 <!-- XKCD_END -->
 
 <!--
