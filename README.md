@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Authorization](https://imgs.xkcd.com/comics/authorization.png)
+![XKCD # - Chess Notation](https://imgs.xkcd.com/comics/chess_notation.png)
 <!-- XKCD_END -->
 
 <!--
