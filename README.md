@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Microdrones](https://imgs.xkcd.com/comics/microdrones.png)
+![XKCD # - Dependency](https://imgs.xkcd.com/comics/dependency.png)
 <!-- XKCD_END -->
 
 <!--
