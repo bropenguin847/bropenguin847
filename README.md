@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Subjectivity](https://imgs.xkcd.com/comics/subjectivity.png)
+![XKCD # - Tectonics Game](https://imgs.xkcd.com/comics/tectonics_game.png)
 <!-- XKCD_END -->
 
 <!--
