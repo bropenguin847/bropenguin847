@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Tectonics Game](https://imgs.xkcd.com/comics/tectonics_game.png)
+![XKCD # - Houseguests](https://imgs.xkcd.com/comics/houseguests.png)
 <!-- XKCD_END -->
 
 <!--
