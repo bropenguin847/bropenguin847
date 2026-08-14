@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Houseguests](https://imgs.xkcd.com/comics/houseguests.png)
+![XKCD # - Sphere](https://imgs.xkcd.com/comics/sphere.png)
 <!-- XKCD_END -->
 
 <!--
