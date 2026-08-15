@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Sphere](https://imgs.xkcd.com/comics/sphere.png)
+![XKCD # - Secretary: Part 3](https://imgs.xkcd.com/comics/secretary_part_3.png)
 <!-- XKCD_END -->
 
 <!--
