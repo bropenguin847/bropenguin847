@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Great Attractor](https://imgs.xkcd.com/comics/great_attractor.png)
+![XKCD # - Felidae](https://imgs.xkcd.com/comics/felidae.png)
 <!-- XKCD_END -->
 
 <!--
