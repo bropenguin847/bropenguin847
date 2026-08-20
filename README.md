@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Fermirotica](https://imgs.xkcd.com/comics/fermirotica.png)
+![XKCD # - Phone Alarm](https://imgs.xkcd.com/comics/phone_alarm.png)
 <!-- XKCD_END -->
 
 <!--
