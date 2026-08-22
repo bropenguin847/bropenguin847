@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Code Quality 2](https://imgs.xkcd.com/comics/code_quality_2.png)
+![XKCD # - Confounding Variables](https://imgs.xkcd.com/comics/confounding_variables.png)
 <!-- XKCD_END -->
 
 <!--
