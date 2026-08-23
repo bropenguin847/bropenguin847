@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Confounding Variables](https://imgs.xkcd.com/comics/confounding_variables.png)
+![XKCD # - Orb Hammer](https://imgs.xkcd.com/comics/orb_hammer.png)
 <!-- XKCD_END -->
 
 <!--
