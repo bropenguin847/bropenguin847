@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Orb Hammer](https://imgs.xkcd.com/comics/orb_hammer.png)
+![XKCD # - Faust 2.0](https://imgs.xkcd.com/comics/faust_20.png)
 <!-- XKCD_END -->
 
 <!--
