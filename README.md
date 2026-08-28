@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Opportunity](https://imgs.xkcd.com/comics/opportunity.png)
+![XKCD # - Númenor Margaritaville](https://imgs.xkcd.com/comics/numenor_margaritaville.png)
 <!-- XKCD_END -->
 
 <!--
