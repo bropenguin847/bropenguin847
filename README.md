@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Manhattan Project](https://imgs.xkcd.com/comics/manhattan_project.png)
+![XKCD # - Interview](https://imgs.xkcd.com/comics/interview.png)
 <!-- XKCD_END -->
 
 <!--
