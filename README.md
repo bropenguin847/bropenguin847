@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Spectroscopy](https://imgs.xkcd.com/comics/spectroscopy.png)
+![XKCD # - Atoms](https://imgs.xkcd.com/comics/atoms.png)
 <!-- XKCD_END -->
 
 <!--
