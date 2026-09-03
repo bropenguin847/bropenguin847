@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Einstein](https://imgs.xkcd.com/comics/einstein.png)
+![XKCD # - Forks and Spoons](https://imgs.xkcd.com/comics/forks_and_spoons.png)
 <!-- XKCD_END -->
 
 <!--
