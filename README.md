@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Refrigerator](https://imgs.xkcd.com/comics/refrigerator.png)
+![XKCD # - Leaving](https://imgs.xkcd.com/comics/leaving.png)
 <!-- XKCD_END -->
 
 <!--
