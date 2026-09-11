@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Fall Back](https://imgs.xkcd.com/comics/fall_back.png)
+![XKCD # - NASA Award](https://imgs.xkcd.com/comics/nasa_award.png)
 <!-- XKCD_END -->
 
 <!--
