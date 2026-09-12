@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - NASA Award](https://imgs.xkcd.com/comics/nasa_award.png)
+![XKCD # - President Venn Diagram](https://imgs.xkcd.com/comics/president_venn_diagram.png)
 <!-- XKCD_END -->
 
 <!--
