@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - President Venn Diagram](https://imgs.xkcd.com/comics/president_venn_diagram.png)
+![XKCD # - Hamster Ball Heist](https://imgs.xkcd.com/comics/hamster_ball_heist.png)
 <!-- XKCD_END -->
 
 <!--
