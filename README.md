@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Hamster Ball Heist](https://imgs.xkcd.com/comics/hamster_ball_heist.png)
+![XKCD # - Guitar Hero](https://imgs.xkcd.com/comics/guitar_hero.jpg)
 <!-- XKCD_END -->
 
 <!--
