@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Guitar Hero](https://imgs.xkcd.com/comics/guitar_hero.jpg)
+![XKCD # - Eclipse Birds](https://imgs.xkcd.com/comics/eclipse_birds.png)
 <!-- XKCD_END -->
 
 <!--
