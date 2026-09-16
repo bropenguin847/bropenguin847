@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Eclipse Birds](https://imgs.xkcd.com/comics/eclipse_birds.png)
+![XKCD # - Wifi vs Cellular](https://imgs.xkcd.com/comics/wifi_vs_cellular.png)
 <!-- XKCD_END -->
 
 <!--
