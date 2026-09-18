@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - World War III+](https://imgs.xkcd.com/comics/world_war_iii.png)
+![XKCD # - Biology vs Robotics](https://imgs.xkcd.com/comics/biology_vs_robotics.png)
 <!-- XKCD_END -->
 
 <!--
