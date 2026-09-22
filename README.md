@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Schrodinger](https://imgs.xkcd.com/comics/schrodinger.jpg)
+![XKCD # - Notifications](https://imgs.xkcd.com/comics/notifications.png)
 <!-- XKCD_END -->
 
 <!--
