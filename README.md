@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Factorial Numbers](https://imgs.xkcd.com/comics/factorial_numbers.png)
+![XKCD # - Game Show](https://imgs.xkcd.com/comics/game_show.png)
 <!-- XKCD_END -->
 
 <!--
