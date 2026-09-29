@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Pi vs. Tau](https://imgs.xkcd.com/comics/pi_vs_tau.png)
+![XKCD # - Kilogram](https://imgs.xkcd.com/comics/kilogram.png)
 <!-- XKCD_END -->
 
 <!--
