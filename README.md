@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Kilogram](https://imgs.xkcd.com/comics/kilogram.png)
+![XKCD # - Inflation](https://imgs.xkcd.com/comics/inflation.png)
 <!-- XKCD_END -->
 
 <!--
