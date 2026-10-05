@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Password Reuse](https://imgs.xkcd.com/comics/password_reuse.png)
+![XKCD # - Typing Notifications](https://imgs.xkcd.com/comics/typing_notifications.png)
 <!-- XKCD_END -->
 
 <!--
