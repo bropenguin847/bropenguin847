@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Carcinization](https://imgs.xkcd.com/comics/carcinization.png)
+![XKCD # - Goodhart's Law](https://imgs.xkcd.com/comics/goodharts_law.png)
 <!-- XKCD_END -->
 
 <!--
