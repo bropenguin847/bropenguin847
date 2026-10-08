@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Goodhart's Law](https://imgs.xkcd.com/comics/goodharts_law.png)
+![XKCD # - Cutting Edge](https://imgs.xkcd.com/comics/cutting_edge.png)
 <!-- XKCD_END -->
 
 <!--
