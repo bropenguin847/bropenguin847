@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Cutting Edge](https://imgs.xkcd.com/comics/cutting_edge.png)
+![XKCD # - Plutonium](https://imgs.xkcd.com/comics/plutonium.png)
 <!-- XKCD_END -->
 
 <!--
