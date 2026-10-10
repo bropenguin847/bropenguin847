@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Plutonium](https://imgs.xkcd.com/comics/plutonium.png)
+![XKCD # - Stephen Hawking](https://imgs.xkcd.com/comics/stephen_hawking.png)
 <!-- XKCD_END -->
 
 <!--
