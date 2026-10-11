@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Stephen Hawking](https://imgs.xkcd.com/comics/stephen_hawking.png)
+![XKCD # - Electric Skateboard (Double Comic)](https://imgs.xkcd.com/comics/electric_skateboard_double_comic.png)
 <!-- XKCD_END -->
 
 <!--
