@@ -1,6 +1,6 @@
 # Hello there !! I am Keith Lim 👋🐧
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&weight=550&size=40&duration=3000&pause=1000&vCenter=true&color=0F40F7&background=00CFFF20&center=true&width=1000&height=50&lines=My+name+is+Keith+Lim+%F0%9F%90%A7;My+main+language+is+Python+%F0%9F%90%8D;I+also+dabble+in+a+little+Verilog;My+upcoming+project+is+a+PCB+namecard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tektur&weight=500&size=50&duration=2000&pause=800&color=2295F7&background=FFFFFF00&center=true&vCenter=true&width=1000&height=70&lines=My+name+is+Keith+Lim;I+specialize+in+Electronics+%26+PCB+Design;Using+Python+%F0%9F%90%8D%2C+Verilog+%F0%9F%9B%A0%EF%B8%8F;My+upcoming+project+is+...;Personal+Power+Supply;Beginner+Soldering+Kit;Custom+Macro+Keypad;Soon+~~~;%28-.-%29Zzz...)](https://git.io/typing-svg)
  
 I am an Electronics Enthusiast and Hobbyist and I love all things electronics. ⚡️💥🛠️
 <img title="Malaysia" alt="Bahasa Melayu" src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/my.svg" width="25">
@@ -8,9 +8,9 @@ I am an Electronics Enthusiast and Hobbyist and I love all things electronics. �
 I started my Electronics journey when I was in my Diploma days. From dismantling electic steamer
 to custom designing my own PCB. I like to do projects that resonate with my interest and or it is just plain cool!
 
-Now, I'm continuing my journey in Univeriti Teknologi Malaysia (UTM), studying Bachelors in Electronics Engineering.
+Now, I'm continuing my journey in Univeriti Teknologi Malaysia (UTM) @Skudai, studying Bachelors in Electronics Engineering with Electronic System Design Major.
 
-My repo consists of the projects I've built from the past. Such as C++ calculator and an ESP32 controller bluetooth car.
+My repo consists of the projects I've built from the past. Such as Computer Vision on posture, C++ calculator and an ESP32 controller Bluetooth car.
 The project that I am most proud of is Price Catcher. Check it out [here.](https://github.com/bropenguin847/Price_Catcher)
 
 ## 🛠️ Tools
@@ -39,10 +39,7 @@ Here are a few of my upcoming projects:
   (HTTP methods and APIs, Request module, simple website with Flask, django & fastAPI)
 - Portable Power supply with casing
 - Hexapod
-- Hacking hardware
-- Making a game with Python
 - Automating with Python
-- Automapping with Johor Bus API
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bropenguin847/bropenguin847/output/github-contribution-grid-snake-dark.svg">
