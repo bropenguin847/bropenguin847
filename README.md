@@ -66,7 +66,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Electric Skateboard (Double Comic)](https://imgs.xkcd.com/comics/electric_skateboard_double_comic.png)
+![XKCD # - OK/okay/ok](https://imgs.xkcd.com/comics/ok_okay_ok.png)
 <!-- XKCD_END -->
 
 <!--
