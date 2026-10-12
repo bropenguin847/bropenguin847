@@ -63,7 +63,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Interblag](https://imgs.xkcd.com/comics/interblag.png)
+![XKCD # - Things Fall Apart](https://imgs.xkcd.com/comics/things_fall_apart.png)
 <!-- XKCD_END -->
 
 <!--
