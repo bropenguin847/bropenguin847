@@ -63,7 +63,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Things Fall Apart](https://imgs.xkcd.com/comics/things_fall_apart.png)
+![XKCD # - Home Organization](https://imgs.xkcd.com/comics/home_organization.png)
 <!-- XKCD_END -->
 
 <!--
