@@ -63,7 +63,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Home Organization](https://imgs.xkcd.com/comics/home_organization.png)
+![XKCD # - Commonly Mispronounced Equations](https://imgs.xkcd.com/comics/commonly_mispronounced_equations.png)
 <!-- XKCD_END -->
 
 <!--
