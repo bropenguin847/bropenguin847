@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Road Space Comparison](https://imgs.xkcd.com/comics/road_space_comparison.png)
+![XKCD # - Heaven](https://imgs.xkcd.com/comics/heaven.png)
 <!-- XKCD_END -->
 
 <!--
