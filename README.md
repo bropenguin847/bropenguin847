@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Heaven](https://imgs.xkcd.com/comics/heaven.png)
+![XKCD # - Painbow Award](https://imgs.xkcd.com/comics/painbow_award.png)
 <!-- XKCD_END -->
 
 <!--
