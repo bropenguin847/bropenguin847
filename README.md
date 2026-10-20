@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Sick Day](https://imgs.xkcd.com/comics/sick_day.png)
+![XKCD # - Inheritance](https://imgs.xkcd.com/comics/inheritance.png)
 <!-- XKCD_END -->
 
 <!--
