@@ -65,7 +65,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Inheritance](https://imgs.xkcd.com/comics/inheritance.png)
+![XKCD # - Budget News](https://imgs.xkcd.com/comics/budget_news.png)
 <!-- XKCD_END -->
 
 <!--
