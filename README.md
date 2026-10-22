@@ -27,7 +27,9 @@ The project that I am most proud of is Price Catcher. Check it out [here.](https
 <!-- <img align="left" alt="Ghidra" width="45px" style="padding-right:10px;" src="images/ghidra_logo.svg" /> -->
 <!-- <img align="left" alt="Gimp" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gimp/gimp-original.svg" /> -->
 <!-- <img align="left" alt="Gimp" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/gimp" /> -->
-<img align="left" alt="CS2" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/counterstrike/E47526" />
+<a href="https://steamcommunity.com/id/herebro/">
+  <img align="left" alt="CS2" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/counterstrike/E47526" />
+</a>
 
 <br/>
 <br/>
