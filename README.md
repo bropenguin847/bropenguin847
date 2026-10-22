@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Budget News](https://imgs.xkcd.com/comics/budget_news.png)
+![XKCD # - Magic School Bus](https://imgs.xkcd.com/comics/magic_school_bus.png)
 <!-- XKCD_END -->
 
 <!--
