@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Penises](https://imgs.xkcd.com/comics/penises.png)
+![XKCD # - Superm*n](https://imgs.xkcd.com/comics/superm_n.png)
 <!-- XKCD_END -->
 
 <!--
