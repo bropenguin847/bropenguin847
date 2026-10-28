@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - tar](https://imgs.xkcd.com/comics/tar.png)
+![XKCD # - Presidential Middle Names](https://imgs.xkcd.com/comics/presidential_middle_names.png)
 <!-- XKCD_END -->
 
 <!--
