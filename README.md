@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Serena Versus the Drones](https://imgs.xkcd.com/comics/serena_versus_the_drones.png)
+![XKCD # - Fire](https://imgs.xkcd.com/comics/fire.png)
 <!-- XKCD_END -->
 
 <!--
