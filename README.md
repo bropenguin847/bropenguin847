@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Hoverboard](https://imgs.xkcd.com/comics/)
+![XKCD # - Nanobots](https://imgs.xkcd.com/comics/nanobots.png)
 <!-- XKCD_END -->
 
 <!--
