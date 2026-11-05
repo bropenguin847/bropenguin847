@@ -15,7 +15,6 @@ The project that I am most proud of is Price Catcher. Check it out [here.](https
 
 ## 🛠️ Tools
 <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
-<!-- <img align="left" alt="EasyEDA" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/easyeda" /> -->
 <img align="left" alt="EasyEDA" width="45px" style="padding-right:10px; border-radius: 20px;" src="images/easyeda-thumbnail.png" />
 <img align="left" alt="Arduino" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/arduino" />
 <img align="left" alt="GitHub" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/white" />
@@ -23,13 +22,13 @@ The project that I am most proud of is Price Catcher. Check it out [here.](https
 <img align="left" alt="Matlab" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matlab/matlab-original.svg" />
 <img align="left" alt="mysql" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/mysql/4479A1" />
 <img align="left" alt="C++" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" />
-<!-- <img align="left" alt="Kali" width="45px" style="padding-right:10px;" src="images/kali-dragon-icon.svg" /> -->
-<!-- <img align="left" alt="Ghidra" width="45px" style="padding-right:10px;" src="images/ghidra_logo.svg" /> -->
-<!-- <img align="left" alt="Gimp" width="45px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gimp/gimp-original.svg" /> -->
-<!-- <img align="left" alt="Gimp" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/gimp" /> -->
+<!-- <img align="left" alt="Gimp" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/docker" /> -->
+<!-- <img align="left" alt="Gimp" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/figma" /> -->
 <a href="https://steamcommunity.com/id/herebro/">
   <img align="left" alt="CS2" width="45px" style="padding-right:10px;" src="https://cdn.simpleicons.org/counterstrike/E47526" />
 </a>
+<!-- <img align="left" alt="Kali" width="45px" style="padding-right:10px;" src="images/kali-dragon-icon.svg" /> -->
+<!-- <img align="left" alt="Ghidra" width="45px" style="padding-right:10px;" src="images/ghidra_logo.svg" /> -->
 
 <br/>
 <br/>
@@ -56,11 +55,12 @@ Here are a few of my upcoming projects:
 
 ## 📫 Let's Connect!
 <a href="https://www.linkedin.com/in/lim-yeow-sheng/">
-  <img src="images/linkedin.png" width="50" height="50" alt="LinkedIn">
+  <img align="left" style="padding-right:10px" width="50" height="50" src="images/linkedin.png" width="50" height="50" alt="LinkedIn">
 </a>
-<br>
-<br>
-<br>
+<a href="https://medium.com/@bropenguin847">
+  <img align="left" style="padding-right:10px" width="50" height="50" alt="Medium" src="https://cdn.simpleicons.org/medium/white">
+</a>
+
 Feel free to check out my projects, drop suggestions, or say hi! <br>
 I'm always excited to grow and learn more. 🌱
 
