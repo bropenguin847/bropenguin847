@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Responsible Behavior](https://imgs.xkcd.com/comics/responsible_behavior.png)
+![XKCD # - Bad Code](https://imgs.xkcd.com/comics/bad_code.png)
 <!-- XKCD_END -->
 
 <!--
