@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Collatz Conjecture](https://imgs.xkcd.com/comics/collatz_conjecture.png)
+![XKCD # - 90s Kid](https://imgs.xkcd.com/comics/90s_kid.png)
 <!-- XKCD_END -->
 
 <!--
