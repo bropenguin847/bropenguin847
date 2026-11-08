@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - 90s Kid](https://imgs.xkcd.com/comics/90s_kid.png)
+![XKCD # - Turkish Delight](https://imgs.xkcd.com/comics/turkish_delight.png)
 <!-- XKCD_END -->
 
 <!--
