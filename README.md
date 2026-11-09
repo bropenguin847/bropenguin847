@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Turkish Delight](https://imgs.xkcd.com/comics/turkish_delight.png)
+![XKCD # - Typical Morning Routine](https://imgs.xkcd.com/comics/typical_morning_routine.png)
 <!-- XKCD_END -->
 
 <!--
