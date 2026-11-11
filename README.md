@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Doppler Effect](https://imgs.xkcd.com/comics/doppler_effect.png)
+![XKCD # - Qwertial Aphasia](https://imgs.xkcd.com/comics/qwertial_aphasia.png)
 <!-- XKCD_END -->
 
 <!--
