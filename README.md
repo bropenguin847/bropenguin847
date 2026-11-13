@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Linked List Interview Problem](https://imgs.xkcd.com/comics/linked_list_interview_problem.png)
+![XKCD # - Hydraulic Analogy](https://imgs.xkcd.com/comics/hydraulic_analogy.png)
 <!-- XKCD_END -->
 
 <!--
