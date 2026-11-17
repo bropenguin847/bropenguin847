@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Hallucinations](https://imgs.xkcd.com/comics/hallucinations.png)
+![XKCD # - Coronavirus Research](https://imgs.xkcd.com/comics/coronavirus_research.png)
 <!-- XKCD_END -->
 
 <!--
