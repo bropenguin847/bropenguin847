@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Coronavirus Research](https://imgs.xkcd.com/comics/coronavirus_research.png)
+![XKCD # - Certainty](https://imgs.xkcd.com/comics/certainty.png)
 <!-- XKCD_END -->
 
 <!--
