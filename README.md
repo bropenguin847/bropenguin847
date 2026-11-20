@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Earth Formation Site](https://imgs.xkcd.com/comics/earth_formation_site.png)
+![XKCD # - Númenor Margaritaville](https://imgs.xkcd.com/comics/numenor_margaritaville.png)
 <!-- XKCD_END -->
 
 <!--
