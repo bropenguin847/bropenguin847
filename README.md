@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Dark Matter](https://imgs.xkcd.com/comics/dark_matter.png)
+![XKCD # - Not Really Into Pokemon](https://imgs.xkcd.com/comics/not_really_into_pokemon.png)
 <!-- XKCD_END -->
 
 <!--
