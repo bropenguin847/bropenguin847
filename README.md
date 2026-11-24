@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Drone Fishing](https://imgs.xkcd.com/comics/drone_fishing.png)
+![XKCD # - Ballmer Peak](https://imgs.xkcd.com/comics/ballmer_peak.png)
 <!-- XKCD_END -->
 
 <!--
