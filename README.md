@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Ballmer Peak](https://imgs.xkcd.com/comics/ballmer_peak.png)
+![XKCD # - Brussels Sprouts Mandela Effect](https://imgs.xkcd.com/comics/brussels_sprouts_mandela_effect.png)
 <!-- XKCD_END -->
 
 <!--
