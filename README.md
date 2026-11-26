@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Brussels Sprouts Mandela Effect](https://imgs.xkcd.com/comics/brussels_sprouts_mandela_effect.png)
+![XKCD # - Misinterpretation](https://imgs.xkcd.com/comics/misinterpretation.png)
 <!-- XKCD_END -->
 
 <!--
