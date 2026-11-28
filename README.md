@@ -67,7 +67,7 @@ I'm always excited to grow and learn more. 🌱
 ---
 ### Daily XKCD
 <!-- XKCD_START -->
-![XKCD # - Ferris Wheels](https://imgs.xkcd.com/comics/ferris_wheels.png)
+![XKCD # - Grownups](https://imgs.xkcd.com/comics/grownups.png)
 <!-- XKCD_END -->
 
 <!--
